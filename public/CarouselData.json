@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "1",
+        "img" :"https://img.freepik.com/free-photo/beautiful-strawberry-garden-sunrise-doi-ang-khang-chiang-mai-thailand_335224-762.jpg?size=626&ext=jpg&ga=GA1.2.309246416.1683256725&semt=sph",
+        "captionTitle" : "first ",
+        "captionData" : "First slider data"
+    },
+    {
+        "id" : "2",
+        "img" :"https://img.freepik.com/free-photo/rain-clouds-mountain-top_661209-529.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph",
+        "captionTitle" : "second",
+        "captionData" : "Second slider data"
+    },
+    {
+        "id" : "3",
+        "img" :"https://img.freepik.com/free-photo/herd-wild-deer-middle-lake-surrounded-by-greenery_181624-6260.jpg?w=740&t=st=1683819287~exp=1683819887~hmac=36bf53d380d46f191cf30ab26ab2e8c2a5fc339c502fb4a832a724247cb7b619",
+        "captionTitle" : "third",
+        "captionData" : " Third slider data"
+    },
+    {
+        "id" : "4",
+        "img" :"https://img.freepik.com/free-photo/beautiful-landscape-beach-sea-ocean-with-empty-chair-deck-umbrella-nearly-coconut-palm-tree-with-white-cloud-blue-sky_74190-9981.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph",
+        "captionTitle" : "fourth",
+        "captionData" : "forth slider data"
+    }
+]

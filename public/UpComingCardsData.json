@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "1",
+        "title": "Delhi",
+        "day": "7 days 8 nights",
+        "publish": "Published on: March 8, 2023",
+        "price" : "BDT 25000",
+        "img" : "https://img.freepik.com/premium-photo/india-gate-war-memorial-delhi_78361-13600.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph"
+    },
+    {
+        "id" : "2",
+        "title": "Kashmir",
+        "day": "7 days 8 nights",
+        "publish": "Published on: March 9, 2023",
+        "price" : "BDT 55000",
+        "img" : "https://img.freepik.com/free-photo/landscape-view-fields-manali-mountains-india_181624-30083.jpg?size=626&ext=jpg&ga=GA1.2.309246416.1683256725&semt=ais"
+    },
+    {
+        "id" : "3",
+        "title": "Rajasthan",
+        "day": "4 days 6 nights",
+        "publish": "Published on: March 10, 2023",
+        "price" : "BDT 35000",
+        "img" : "https://img.freepik.com/free-photo/indian-men-resting-by-bonfire-with-their-camel_53876-47057.jpg?size=626&ext=jpg&ga=GA1.2.309246416.1683256725&semt=sph"
+    },
+    {
+        "id" : "1",
+        "title": "Bhutan",
+        "day": "7 days 8 nights",
+        "publish": "Published on: March 11, 2023",
+        "price" : "BDT 125000",
+        "img" : "https://img.freepik.com/premium-photo/village-with-mountain-backdrop-couple-walking-front-it_865967-3719.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph"
+    }
+]

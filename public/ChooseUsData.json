@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "1",
+        "img": "https://img.freepik.com/free-photo/booking-hotel-reservation-travel-destination-concept_53876-121094.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=ais",
+        "title":"Free Cancellation & Booking Policy",
+        "content": "We offer free cancellation & booking Policy for any tour. In some cases, you can cancel or book the tour on the day before it starts. Please check our Booking & Cancellation Policy to know more about each tour."
+    },
+    {
+        "id" : "2",
+        "img": "https://img.freepik.com/free-photo/happy-korean-woman-taking-selfie-with-passport-flight-tickets-going-vacation-standing-near-bi_1258-83341.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=ais",
+        "title":"Safe & Sustainable Travel",
+        "content": "Your next travel should be safe & sustainable after the COVID-19 outbreak. We assure safety on every step maintaining rules awareness and offering healthy food. We focus on sustainability of nature and eco-friendly travel."
+    },
+    {
+        "id" : "3",
+        "img": "https://img.freepik.com/premium-photo/illustration-special-offer-yellow-background_235490-350.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=ais",
+        "title":"Special Group Tour Offer ",
+        "content": "We offering best rate for your group tour of any number. Firstly, we prefer a private arrangement for a trip to make it comfortable and enjoyable with our extraordinary services."
+    },
+    {
+        "id" : "4",
+        "img": "https://img.freepik.com/free-photo/young-modern-family-travelling-by-car-stopped-walk-park_1303-18522.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=ais",
+        "title":"Private & Small Group",
+        "content": "We offer the best way to make your trip private and comfortable. Any number of travelers are welcome to have a great experience of visiting in your own way. But if anyone wants to join in a package, we have a scheduled tour with maximum group of 6 in any destination."
+    },
+    {
+        "id" : "5",
+        "img": "https://img.freepik.com/free-photo/red-sign-wood-board_23-2147960605.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=ais",
+        "title":"Best Price Deal",
+        "content": "We guaranty the lower price for every single trip. Good working relationships with direct local owners of properties or services allowed us to give you a lower price."
+    },
+    {
+        "id" : "6",
+        "img": "https://img.freepik.com/free-photo/energized-good-looking-assured-successful-man-with-beard-blue-eyes-stylish-formal-suit-showing-thumbs-up-being-assured-plan-work-great-standing-self-assured-against-gray-wall_176420-22712.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=ais",
+        "title":"High Quality Service Assurance",
+        "content": "We assure the quality services for every single trip with best tour plan, high rated accommodations, transportation's and quality food. Our full time knowledgeable and accompanied guide are committed to make it perfect."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1",
+        "title": "Sundarban",
+        "img": "https://img.freepik.com/free-photo/siberian-tiger-panthera-tigris-altaica-swimming-water-directly-front-photographer-dangereous-predator-action-tiger-green-taiga-habitat-beautiful-wild-animal-captivity_475641-2026.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=ais",
+        "day": "8 Days ",
+        "price" : "BDT 15000 "
+    },
+    {
+        "id" : "2",
+        "title":"Tajmahal",
+        "img": "https://img.freepik.com/premium-photo/taj-mahal-sunrise-light_78361-722.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph",
+        "day": "10 Days ",
+        "price" : "BDT 25000 "
+    },
+    {
+        "id" : "3",
+        "title":"Darjeeling",
+        "img": "https://img.freepik.com/free-photo/aerial-view-beautiful-sky-road-top-mountains-with-green-jungle-nan-province-thailand_335224-1063.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph",
+        "day": "9 Days ",
+        "price" : "BDT 33000 "
+    },
+    {
+        "id" : "4",
+        "title":"Cox's Bazar",
+        "img": "https://img.freepik.com/free-photo/beautiful-landscape-cityscape-hua-hin-city-around-sea-ocean-bay_74190-9225.jpg?size=626&ext=jpg&ga=GA1.2.309246416.1683256725&semt=ais",
+        "day": "7 Days ",
+        "price" : "BDT 15000 "
+    },
+    {
+        "id" : "5",
+        "title":"Bandarban",
+        "img": "https://img.freepik.com/free-photo/rain-clouds-mountain-top_661209-529.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph",
+        "day": "7 Days ",
+        "price" : "BDT 15000 "
+    },
+    {
+        "id" : "6",
+        "title":"Nepal",
+        "img": "https://img.freepik.com/free-photo/asian-woman-wearing-chinese-traditional-dress-boat-ban-rak-thai-village-mae-hong-son-province_335224-1170.jpg?size=626&ext=jpg&ga=GA1.1.309246416.1683256725&semt=sph",
+        "day": "7 Days ",
+        "price" : "BDT 15000 "
+    }
+]
